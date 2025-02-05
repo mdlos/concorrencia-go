@@ -30,6 +30,8 @@ Desenvolvimento do seminário sobre programação concorrente em Go.
     <td align="center"><img style="" src="https://avatars.githubusercontent.com/u/72825281?v=4" width="100px;" alt=""/><br /><sub><b> Marcio Fonseca </b></sub></a><br />👨‍💻</a></td>
     <td align="center"><img style="" src="https://avatars.githubusercontent.com/u/108435026?v=4" width="100px;" alt=""/><br /><sub><b> Simeone Johnson </b></sub></a><br />👨‍💻</a>
   </td>
+   <td align="center"><img style="" src="https://avatars.githubusercontent.com/u/147352970?v=4" width="100px;" alt=""/><br /><sub><b> Ivana </b></sub></a><br />👨‍💻</a>
+<td align="center"><img style="https://avatars.githubusercontent.com/u/173219343?v=4" src="" width="100px;" alt=""/><br /><sub><b> Laiana Barbosa </b></sub></a><br />👨‍💻</a>
   </tr>
 </table>
 

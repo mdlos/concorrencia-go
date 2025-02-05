@@ -29,6 +29,10 @@ Desenvolvimento do seminário sobre programação concorrente em Go.
   <tr>
     <td align="center"><img style="" src="https://avatars.githubusercontent.com/u/72825281?v=4" width="100px;" alt=""/><br /><sub><b> Marcio Fonseca </b></sub></a><br />👨‍💻</a></td>
   </tr>
+   <tr>
+    <td align="center"><img style="" src="https://avatars.githubusercontent.com/u/108435026?v=4" width="100px;" alt=""/><br /><sub><b> Simeone Johnson </b></sub></a><br />👨‍💻</a></td>
+  </tr>
+  
 </table>
 
 </div>
